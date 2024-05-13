@@ -1,0 +1,29 @@
+.stepOneContainer {
+    height: 350px;
+    margin: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+
+    & input {
+        width: 90%;
+        height: 20px;
+        padding: 10px;
+        border: 1px solid var(--lightGray);
+        color: var(--coolGray);
+        font-weight: 750;
+        border-radius: 5px;
+        &:focus {
+            outline: none;
+        }
+    }
+
+    & label {
+        color: var(--coolGray);
+        font-size: 0.7em;
+    }
+
+    & p {
+        color: var(--lightGray);
+    }
+}
