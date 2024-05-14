@@ -77,7 +77,7 @@ export default function App() {
           <Route path="*" element={
             <div>
               <h1>Page Not found</h1>
-              <a href="/">Click here</a>
+              <a href="https://fabrizioblanco.github.io/step-1">Click here</a>
             </div>
           } />
         </Routes>

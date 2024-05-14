@@ -2,7 +2,7 @@
   "name": "multi-step-form-main",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://FabrizioBlanco.github.io/multi.step.form.main",
+  "homepage": "https://fabrizioblanco.github.io/step-1",
   "type": "module",
   "scripts": {
     "dev": "vite",
